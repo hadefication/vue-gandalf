@@ -1,2 +1,2 @@
 # Gandalf
-Just another Vue wizard component
+Just another wizard component powered by Vue
